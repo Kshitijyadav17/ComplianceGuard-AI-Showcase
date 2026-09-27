@@ -157,17 +157,24 @@ This public repository contains selected visuals demonstrating the application i
 
 The dashboard provides document upload, compliance audit execution, compliance scoring, report download, and AI assistant functionality.
 
-### 💬 AI Handbook Assistant
+![ComplianceGuard AI Dashboard](screenshots/dashboard.jpg)
 
-The AI assistant allows users to ask natural-language questions about the uploaded handbook and receive context-based answers.
+---
 
 ### 📑 Compliance Report
 
 The application generates a downloadable compliance report containing policy-level analysis and compliance findings.
 
+![ComplianceGuard AI Compliance Report](screenshots/compliance%20report.JPG)
+
+---
+
 ### 🏗️ System Architecture
 
 The architecture demonstrates the flow from PDF document processing through chunking, vector retrieval, RAG, Gemini analysis, compliance scoring, and report generation.
+
+![ComplianceGuard AI System Architecture](screenshots/architecture.png)
+
 
 
 ## 🔐 Privacy & Source Code
@@ -276,3 +283,5 @@ The current implementation successfully demonstrates:
 
 
 ⭐ If you find the project interesting, feel free to connect with me on LinkedIn and discuss AI, RAG, document intelligence, or automation.
+
+
